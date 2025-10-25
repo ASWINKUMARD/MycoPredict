@@ -61,3 +61,10 @@
 - Feature importance plots highlight odor, gill size, and cap shape as strongest predictors
 
 - Helps in understanding risk factors in mushrooms
+
+    ### 👨‍💻 Author
+
+   **Aswin Kumar D**
+
+💌 *AI/ML Enthusiast | Deep Learning Developer*
+
